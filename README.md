@@ -1,6 +1,6 @@
-# :brain: Network-of-Thought: Multi-turn Jailbreak Framework for LLMs
+# :brain: NEXUS: Network Exploration for eXploiting Unsafe Sequences
 
-**Network-of-Thought** is a universal, multi-turn, conversation-based jailbreak framework targeting cutting-edge Large Language Models (LLMs). It explores the adversarial space as a **"network of thought"**—an interconnected graph of real-world topics and entities—to systematically generate, refine, and execute jailbreak attacks in a controlled, research-focused setting.
+**NEXUS** is a universal, multi-turn, conversation-based jailbreak framework targeting cutting-edge Large Language Models (LLMs). It explores the adversarial space as a **"network of thought"**—an interconnected graph of real-world topics and entities—to systematically generate, refine, and execute jailbreak attacks in a controlled, research-focused setting.
 
 ---
 ## :rocket: Overview
